@@ -1,0 +1,3 @@
+# TypescriptでSequelizeを設定したテンプレートプロジェクトです。
+
+
